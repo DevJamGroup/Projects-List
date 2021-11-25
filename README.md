@@ -142,6 +142,15 @@ required to complete them.
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
 
+### Tier-4: User Submissions
+
+| Name                                                                          | Short Description                                             | Tier           |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------| -------------- |
+| [Magic 8 Ball](./Projects/4-Submissions/Magic-8-Ball.md)                      | Enter a question and receive a response                       | 1-Beginner     |
+| [Blog](./Projects/Projects/4-Submissions/Blog.md)                             | Create a blog                                                 | 3-Intermediate |
+| [Christmas Calendar](./Projects/3-Advanced/Boole-Bot-Game.md)                 | Battling Bots driven by Boolean algebra                       | 3-Intermediate | 
+| [Drum Machine](./Projects/4-Submissions/Drum-Machine.md)                      | Program loops with different types of percussion sounds       | 3-Advanced     |
+
 ## Plans for the future
 
 We are planning to add more and more projects to this repository. For this, we need your help! Find out how to contribute below. 👇
