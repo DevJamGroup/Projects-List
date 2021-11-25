@@ -1,11 +1,9 @@
-## Name
-Blog
+# Blog
 
-## Difficulty 
-Beginner
+Tier: 1-Beginner
 
-## 📝 Project Description
 User can write text and publish it for other users to read. 
+
 ## 📑User Stories
 - [ ] User can read one blog.
 - [ ] User can like blog post, at this point likes can be saved locally
