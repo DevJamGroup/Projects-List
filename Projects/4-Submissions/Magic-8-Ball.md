@@ -1,4 +1,4 @@
-# Bin2Dec
+# Magic 8 Ball
 
 **Tier:** 1-Beginner
 
