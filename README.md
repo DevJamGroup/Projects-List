@@ -150,6 +150,7 @@ required to complete them.
 | [Blog](./Projects/4-Submissions/Blog.md)                                      | Create a blog                                                 | 3-Intermediate |
 | [Christmas Calendar](./Projects/4-Submissions/Christmas-Calendar.md)          | Countdown the days until Christmas                            | 3-Intermediate | 
 | [Drum Machine](./Projects/4-Submissions/Drum-Machine.md)                      | Program loops with different types of percussion sounds       | 3-Advanced     | 
+| [Camera App](./Projects/4-Submissions/Camera-App.md)                          | Take a picture and save it in a gallery                       | 3-Advanced     |
 
 ## Plans for the future
 
