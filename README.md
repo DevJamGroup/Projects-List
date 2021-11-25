@@ -148,7 +148,7 @@ required to complete them.
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------| -------------- |
 | [Magic 8 Ball](./Projects/4-Submissions/Magic-8-Ball.md)                      | Enter a question and receive a response                       | 1-Beginner     |
 | [Blog](./Projects/Projects/4-Submissions/Blog.md)                             | Create a blog                                                 | 3-Intermediate |
-| [Christmas Calendar](./Projects/3-Advanced/Boole-Bot-Game.md)                 | Battling Bots driven by Boolean algebra                       | 3-Intermediate | 
+| [Christmas Calendar](./Projects/4-Submissions/Christmas-Calendar.md)          | Battling Bots driven by Boolean algebra                       | 3-Intermediate | 
 | [Drum Machine](./Projects/4-Submissions/Drum-Machine.md)                      | Program loops with different types of percussion sounds       | 3-Advanced     |
 
 ## Plans for the future
