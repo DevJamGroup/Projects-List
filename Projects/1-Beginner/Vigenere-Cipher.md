@@ -10,8 +10,7 @@ with effective protection measures.
 One of the easiest ways bad actors can compromise an app is to access
 data that's left unencrypted by the developer. There are a number of strong
 encryption algorithms available to ensure that data is not readable even if
-access is compromised. These include AES, Blowfish, and TripleDES to name a
-few. 
+access is compromised. These include Rijndael, Blowfish, Poly1305, and ChaCha20.
 
 However, these algorithms can be quite complex to implement so the objective
 of this app is to implement a classical encryption algorithm, the Vigenere
