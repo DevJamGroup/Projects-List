@@ -2,7 +2,7 @@
 
 ![App Ideas Image](./app-ideas.png)
 
-A list of projects used for the [Dev Jam](https://devjam.vercel.app/) project challenges.
+A list of projects used for the [Dev Jam](https://devjam.vercel.app/projects) project challenges.
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
 
