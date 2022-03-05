@@ -1,10 +1,12 @@
-## Contribution Guide
+# Contributing Guideline
 
-This guide will help us ensure that you have a simple and effective way to contribute to this project.
+To contribute, please submit a new issue using the **project idea** label including the following information:
 
--   If you want to propose a new App Idea, please use the [Example Guide](./Example%20Guide.md) as a base template.
--   Before creating a Pull Request, please make sure that your suggestion is not already added to the project. You can submit an update if you believe it improves an existing idea.
--   Make sure you check your spelling and grammar.
--   Create individual PR for each suggestion.
+- Project name
+- Project description
+- Project difficulty
+- Project user stories (Requirements)
+- Useful links and resources (Optional)
+- Example projects (Optional)
 
-Thank you for spending your time to improve this project! ^\_^
+Check for any spelling/grammar errors and ensure that your project is clear and concise before submitting.
