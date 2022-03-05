@@ -1,4 +1,4 @@
-## :ledger: App Ideas Collection
+## :ledger: Resources
 
 ![App Ideas Image](https://i.imgur.com/MwYDaWg.png)
 
