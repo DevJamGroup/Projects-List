@@ -10,3 +10,5 @@ To contribute, please submit a new issue using the **project idea** label includ
 - Example projects (Optional)
 
 Check for any spelling/grammar errors and ensure that your project is clear and concise before submitting.
+
+[EXAMPLE TEMPLATE](./Projects-List/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
