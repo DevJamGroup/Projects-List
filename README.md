@@ -130,3 +130,6 @@ required to complete them.
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
 
+## Contributing
+
+Please read the **[contributing guidelines](./contributing.md)** before submitting a new resource.
