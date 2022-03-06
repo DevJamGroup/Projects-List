@@ -1,6 +1,6 @@
-## :ledger: App Ideas Collection
+## :ledger: Project Challenges
 
-![App Ideas Image](./app-ideas.png)
+![App Ideas Image](https://i.imgur.com/mnjZ3JQ.png)
 
 A list of projects used for the [Dev Jam](https://devjam.vercel.app/projects) project challenges.
 
