@@ -67,6 +67,10 @@ required to complete them.
 | [Word Frequency](./Projects/1-Beginner/Word-Frequency-App.md)                     | Calculate word frequency in a block of text                | 1-Beginner |
 | [Weather App](./Projects/1-Beginner/Weather-App.md)                               | Get the temperature, weather condition of a city.          | 1-Beginner |
 
+| Name                                                                              | Short Description                                          | Tier       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Polygon API](./Projects/1-Beginner/Polygon-Api.md)                               | Create a web app using the Polygon API                     | 1-Beginner |
+
 ### Tier-2: Intermediate Projects
 
 | Name                                                                              | Short Description                                  | Tier           |
