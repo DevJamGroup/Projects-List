@@ -137,7 +137,7 @@ required to complete them.
 
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Tic Tac Toe](./Projects/3-Advanced/Tic-Tac-Toe.md)                               | Online Tic Tac Toe game                     | 1-Beginner |
+| [Tic Tac Toe](./Projects/3-Advanced/Tic-Tac-Toe.md)                               | Online Tic Tac Toe game                     | 1-Advanced |
 
 ## Contributing
 
