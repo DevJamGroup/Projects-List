@@ -70,6 +70,7 @@ required to complete them.
 | Name                                                                              | Short Description                                          | Tier       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [Polygon API](./Projects/1-Beginner/Polygon-Api.md)                               | Create a web app using the Polygon API                     | 1-Beginner |
+| [Spotify API](./Projects/1-Beginner/Spotify-Api.md)                               | Create a web app using the Spotify API                     | 1-Beginner |
 
 ### Tier-2: Intermediate Projects
 
