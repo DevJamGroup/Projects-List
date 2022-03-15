@@ -135,6 +135,10 @@ required to complete them.
 | [Spell-It App](./Projects/3-Advanced/SpellIt-App.md)                          | A twist on the classic Speak N Spell game                           | 3-Advanced |
 | [Survey App](./Projects/3-Advanced/Survey-App.md)                             | Define, conduct, and view a survey                                  | 3-Advanced |
 
+| Name                                                                              | Short Description                                          | Tier       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Tic Tac Toe](./Projects/3-Advanced/Tic-Tac-Toe.md)                               | Online Tic Tac Toe game                     | 1-Beginner |
+
 ## Contributing
 
 Please read the **[contributing guidelines](./CONTRIBUTING.md)** before submitting a new resource.
