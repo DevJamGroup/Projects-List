@@ -22,6 +22,7 @@ A podcast directory is a web application where users' can search and discover po
 ## Useful links and resources
 
 - [Listen Notes API](https://www.listennotes.com/api/)
+- [Podcast Index API](https://podcastindex.org/)
 
 ## Example projects/websites
 
