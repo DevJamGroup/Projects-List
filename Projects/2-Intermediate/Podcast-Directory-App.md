@@ -18,11 +18,7 @@ scraping information from a page. The reason being that even minor changes to
 page styling can render your web scraper inoperable. For example, the change
 of a CSS class name your scraping logic is dependent on.
 
-The goal of the Podcast Directory app is to pull the most recent episodes of 
-the [Javascript Jabber](https://www.podbean.com/podcast-detail/d4un8-57595/JavaScript-Jabber-Podcast)
-and [Techpoint Charlie](https://www.podbean.com/podcast-detail/k76vd-8adc7/Techpoint-Charlie-Podcast)
-podcasts from [Podbean](https://www.podbean.com) and create a new page that
-creates a combined list of episodes, sorted by broadcast date.
+The goal of the Podcast Directory app is to scrape the most recent episodes of two of your favourite podcasts shows from podbean.com and create a new page that creates a combined list of episodes, sorted by broadcast date.
 
 ## User Stories
 
