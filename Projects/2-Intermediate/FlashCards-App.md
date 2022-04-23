@@ -30,10 +30,9 @@ answers. The objective is for the user to select the correct answer(s).
 
 ## Bonus features
 
--   [ ] User can click a 'Results' button to display the tallies of
+-   [ ] When a User answers a card incorrectly, add the card to an "incorrect" pile. Once the user has gone through the entire deck, go through the incorrect pile until all questions are correct.
+-   [ ] After the User goes through all the cards, a 'Results' page displays the tallies of
         correct and incorrect answers.
--   [ ] User can click a 'Reset' button to reset the tallies of correct
-        and incorrect answers.
 -   [ ] User can click a 'Shuffle' button to re-randomize the "deck"
 -   [ ] User can click a 'More Info' button to flip the flash card to see
         additional information. For example, detailed information about the subject
