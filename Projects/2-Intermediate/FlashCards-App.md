@@ -34,9 +34,6 @@ answers. The objective is for the user to select the correct answer(s).
 -   [ ] After the User goes through all the cards, a 'Results' page displays the tallies of
         correct and incorrect answers.
 -   [ ] User can click a 'Shuffle' button to re-randomize the "deck"
--   [ ] User can click a 'More Info' button to flip the flash card to see
-        additional information. For example, detailed information about the subject
-        of the question on the front of the card.
 
 ## Useful links and resources
 
