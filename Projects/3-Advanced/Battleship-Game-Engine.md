@@ -2,21 +2,11 @@
 
 **Tier:** 3-Advanced
 
-Battleship Game Engine (BGE) implements the classic turn-based board game as a
-package that's separated from any presentation layer. This is a type of
-architectural pattern that useful in many application since it allows
-any number of apps to utilize the same service.
+Battleship is a strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of warships are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet. 
 
-The BGE itself is invoked through a series of function calls rather than
-through directly coupled end user actions. In this respect using the BGE is
-is similar to using an API or a series of routes exposed by a web server.
+Before play begins, each player secretly arranges their ships on their primary grid. Each ship occupies a number of consecutive squares on the grid, arranged either horizontally or vertically. The number of squares for each ship is determined by the type of ship. The ships cannot overlap (i.e., only one ship can occupy any given square in the grid). The types and numbers of ships allowed are the same for each player. These may vary depending on the rules. The ships should be hidden from players sight and it's not allowed to see each other's pieces. The game is a discovery game which players need to discover their opponents ship positions. [11]
 
-This challenge requires that you develop the BGE and a very thin, text-based
-presentation layer for testing that's separate from the engine itself. Due to
-this the User Stories below are divided two sets - one for the BGE and one
-for the text-based presentation layer.
-
-BGE is responsible for maintaining game state.
+This challenge is for you to create a Battleship game that allows the user to play against a computer.
 
 ## User Stories
 
@@ -47,6 +37,8 @@ BGE is responsible for maintaining game state.
 
 ### BGE
 
+-   [ ] Additional ships: Carrier: 5 squares, Submarine: 3 squares.
+-   [ ] Caller can manually place their objects(ships) in desired location.
 -   [ ] Caller can specify the number of rows and columns in the game board as a parameter to the `startGame()` function.
 -   [ ] Caller can invoke a `gameStats()` function that returns a Javascript object containing metrics for the current game. For example, number of turns played, current number of hits and misses, etc.
 -   [ ] Caller can specify the number of players (1 or 2) when calling `startGame()` which will generate one board for each player randomly populated with ships.
