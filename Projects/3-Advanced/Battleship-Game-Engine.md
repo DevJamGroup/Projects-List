@@ -12,7 +12,7 @@ This challenge is for you to create a Battleship game that allows the user to pl
 
 ### BGE
 
--   [ ] Caller can invoke a `startGame()` function to begin a 1-player game. This function will generate an 8x8 game board consisting of 3 ships having a width of one square and a length of:
+-   [ ] User can invoke a `startGame()` function to begin a 1-player game. This function will generate an 8x8 game board consisting of 3 ships having a width of one square and a length of:
 
     -   Destroyer: 2 squares
     -   Cruiser: 3 squares
@@ -20,7 +20,7 @@ This challenge is for you to create a Battleship game that allows the user to pl
 
     `startGame()` will randomly place these ships on the board in any direction and will return an array representing ship placement.
 
--   [ ] Caller can invoke a `shoot()` function passing the target row and column coordinates of the targeted cell on the game board. `shoot()` will return indicators representing if the shot resulted in a hit or miss, the number of ships left (i.e. not yet sunk), the ship placement array, and an updated hits and misses array.
+-   [ ] User can invoke a `shoot()` function passing the target row and column coordinates of the targeted cell on the game board. `shoot()` will return indicators representing if the shot resulted in a hit or miss, the number of ships left (i.e. not yet sunk), the ship placement array, and an updated hits and misses array.
 
     Cells in the hits and misses array will contain a space if they have yet to be targeted, `O` if they were targeted but no part of a ship was at that location, or `X` if the cell was occupied by part of a ship.
 
@@ -38,10 +38,10 @@ This challenge is for you to create a Battleship game that allows the user to pl
 ### BGE
 
 -   [ ] Additional ships: Carrier: 5 squares, Submarine: 3 squares.
--   [ ] Caller can manually place their objects(ships) in desired location.
--   [ ] Caller can specify the number of rows and columns in the game board as a parameter to the `startGame()` function.
--   [ ] Caller can invoke a `gameStats()` function that returns a Javascript object containing metrics for the current game. For example, number of turns played, current number of hits and misses, etc.
--   [ ] Caller can specify the number of players (1 or 2) when calling `startGame()` which will generate one board for each player randomly populated with ships.
+-   [ ] User can manually place their objects(ships) in desired location.
+-   [ ] User can specify the number of rows and columns in the game board as a parameter to the `startGame()` function.
+-   [ ] User can invoke a `gameStats()` function that returns a Javascript object containing metrics for the current game. For example, number of turns played, current number of hits and misses, etc.
+-   [ ] User can specify the number of players (1 or 2) when calling `startGame()` which will generate one board for each player randomly populated with ships.
 
     `shoot()` will accept the player number the shot is being made for along with the coordinates of the shot. The data it returns will be for that player.
 
