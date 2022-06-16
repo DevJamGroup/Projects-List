@@ -9,7 +9,7 @@ assignees: ""
 **Project Name**
 Name of your project 
 
-**Project Descriptione**
+**Project Description**
 Description of your project (What it is, what it does, how it works etc...)
 
 **Project Difficulty**
