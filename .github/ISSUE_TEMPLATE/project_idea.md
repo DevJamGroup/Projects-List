@@ -7,12 +7,15 @@ assignees: ""
 ---
 
 **Project Name**
+
 Name of your project 
 
 **Project Description**
+
 Description of your project (Try to be as detailed as you can!)
 
 **Project Difficulty**
+
 Beginner, Intermediate, Advanced
 
 **Project User Stories**
