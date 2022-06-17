@@ -18,9 +18,7 @@ Description of your project (Try to be as detailed as you can!)
 
 Beginner, Intermediate, Advanced
 
-**Project User Stories**
-
-List of project requirements/tasks to be completed
+**Project User Stories** - List of tasks to be completed
 
 - [ ] Task 1
 - [ ] Task 2
