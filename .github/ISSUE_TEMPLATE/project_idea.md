@@ -10,7 +10,7 @@ assignees: ""
 Name of your project 
 
 **Project Description**
-Description of your project (What it is, what it does, how it works etc...)
+Description of your project (Try to be as detailed as you can!)
 
 **Project Difficulty**
 Beginner, Intermediate, Advanced
