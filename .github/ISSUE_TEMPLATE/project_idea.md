@@ -28,7 +28,9 @@ List of project requirements/tasks to be completed
 - [ ] ...
 
 **Useful links and resources (Optional)**
-Links of useful resources related to the project
+- [link](#)
+- [link](#)
 
 **Example Projects (Optional)**
-Links to existing projects found around the web.
+- [link](#)
+- [link](#)
